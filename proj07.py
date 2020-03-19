@@ -1,10 +1,9 @@
 #######################################################################
-# Computer Project #7
 # 
 # Algorithm
 #
 #   Prompt for three different files, ip addresses for each country, 
-#   attacks ip addresses to be searched, and a the codes for each country name
+#   attacks ip addresses to be searched, and the codes for each country name.
 #   These files are parced and formed into lists converting the IP address to
 #   12 digit numbers for easy comparison. For each attack IP if it sits between
 #   the start IP and end Ip for the country it is a match and the country code
